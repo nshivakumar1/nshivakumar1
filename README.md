@@ -1,6 +1,6 @@
 # Hi I am Nakul ✨
 
-💻 Associate Technical Engineer, Infrastructure Operations </br>
+💻 Subject Matter Expert/ Team Lead, Infrastructure Operations </br>
 📚 MBA in Business Analytics from Amity University, Noida </br>
 🍱 I love to cook </br>
 📖 Currently Upskilling on DevOps technology and trends for successful Career transisiton </br>
